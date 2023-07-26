@@ -67908,7 +67908,7 @@ A.FT.prototype={
 O(a){return new A.vr(B.DU,"My Profile",A.al3(null,B.w,null),!1,null)}}
 A.EP.prototype={
 O(a2){var s,r,q,p=this,o=null,n="assets/images/git.png",m="assets/images/face.png",l="assets/images/insta.png",k=A.cD(a2,o,t.w).w.a,j=A.fX("Home",A.hO(o,o,B.r,o,o,o,o,o,o,o,o,o,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o),i=A.d2(o,o,30),h=A.fX("Skills",A.hO(o,o,B.r,o,o,o,o,o,o,o,o,o,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o),g=A.d2(o,o,30),f=A.fX("Projects",A.hO(o,o,B.r,o,o,o,o,o,o,o,o,o,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o),e=A.d2(o,o,30),d=p.jw(A.l1(n,B.h,o,o)),c=p.jw(A.l1(m,B.h,o,o)),b=p.jw(A.l1(l,B.h,o,o)),a=A.d2(o,o,30),a0=A.aic(B.h,2),a1=t.af
-a0=A.I2(A.a([new A.J2(new A.xG("river/logo11.svg",o,o,B.yP,o),o,o),new A.IN(o),j,i,h,g,f,e,d,c,b,a,A.ajt(A.YM(!1,o,!0,A.TI(A.fX("Let's Connet",A.hO(o,o,B.h,o,o,o,o,o,o,o,o,o,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o),o,o),o,!0,o,o,o,B.dL,o,o,o,o,o,new A.XZ(),o,B.dL,o,o),new A.dQ(B.F,o,a0,o,o,o,B.aV),60,150),A.d2(o,o,30)],a1),B.c_,B.c4,B.c5)
+a0=A.I2(A.a([new A.J2(new A.xG("assets/river/logo11.svg",o,o,B.yP,o),o,o),new A.IN(o),j,i,h,g,f,e,d,c,b,a,A.ajt(A.YM(!1,o,!0,A.TI(A.fX("Let's Connet",A.hO(o,o,B.h,o,o,o,o,o,o,o,o,o,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o),o,o),o,!0,o,o,o,B.dL,o,o,o,o,o,new A.XZ(),o,B.dL,o,o),new A.dQ(B.F,o,a0,o,o,o,B.aV),60,150),A.d2(o,o,30)],a1),B.c_,B.c4,B.c5)
 j=k.a
 i=j*0.1
 h=A.aj7(A.fX("Hello,It's me",A.adP().$3$color$fontSize$fontWeight(B.h,24,B.b8),o),B.fZ)
@@ -67923,7 +67923,7 @@ a=A.aj8(A.I2(A.a([p.jw(A.l1(m,$.rQ(),o,o)),A.d2(o,o,12),p.jw(A.l1("assets/images
 s=A.d2(o,15,o)
 r=$.rQ()
 q=A.Ce(30)
-return new A.wT(!0,new A.t7(a0,0,B.F,100,new A.Og(100,o,1/0,100),100,o),A.aeO(new A.IA(new A.bq(i,k.b*0.4,i,0),A.aeH(A.a([A.I2(A.a([A.aeH(A.a([h,g,new A.uq(f,B.ky,o),e,new A.up(d,B.ky,o),c,j,b,a,s,A.aj8(new A.vt(new A.Y_(),r,B.Ij,7,12,A.fX("Dowload CV",A.aCn().$3$color$fontSize$fontWeight(B.k,18,B.cF),o),B.Dd,new A.iJ(4,q,B.t),130,46,o),B.fZ)],a1),B.dN,B.HQ),B.K2],a1),B.dN,B.c4,B.c5),B.LL,new A.BJ(o),B.LK],a1),B.c_,B.c4),o),new A.dQ(o,new A.Dl(new A.oE("river/banner-bg11.png",o,o),B.xK),o,o,o,o,B.aV),B.dS),o)},
+return new A.wT(!0,new A.t7(a0,0,B.F,100,new A.Og(100,o,1/0,100),100,o),A.aeO(new A.IA(new A.bq(i,k.b*0.4,i,0),A.aeH(A.a([A.I2(A.a([A.aeH(A.a([h,g,new A.uq(f,B.ky,o),e,new A.up(d,B.ky,o),c,j,b,a,s,A.aj8(new A.vt(new A.Y_(),r,B.Ij,7,12,A.fX("Dowload CV",A.aCn().$3$color$fontSize$fontWeight(B.k,18,B.cF),o),B.Dd,new A.iJ(4,q,B.t),130,46,o),B.fZ)],a1),B.dN,B.HQ),B.K2],a1),B.dN,B.c4,B.c5),B.LL,new A.BJ(o),B.LK],a1),B.c_,B.c4),o),new A.dQ(o,new A.Dl(new A.oE("assets/river/banner-bg11.png",o,o),B.xK),o,o,o,o,B.aV),B.dS),o)},
 jw(a){var s=null,r=A.aic(B.r,2)
 return A.ajt(A.YM(!1,A.Ce(500),!0,new A.hz(B.Df,a,s),s,!0,s,s,s,B.dL,s,s,s,s,s,new A.XY(),s,B.dL,s,s),new A.dQ(B.F,s,r,s,s,s,B.xL),40,40)}}
 A.XZ.prototype={
