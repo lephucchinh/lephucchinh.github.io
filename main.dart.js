@@ -82769,7 +82769,7 @@ L(a){var s=null,r=A.bE(a,s,t.w).w.a,q=t.E
 return new A.Au(!0,new A.wr(new A.GM(s),0,B.v,100,new A.Un(100,s,1/0,100),100,s),A.ot(new A.NO(new A.aH(0,r.b*0.4,0,0),A.jv(A.a([new A.JQ(r,s),B.PM,new A.NT(s),B.PL,new A.zU(s),A.q9(B.cL,A.a([A.eA(s,A.jv(A.a([A.mw(new A.I3(s),2),A.mw(new A.Ha(r,s),1)],q),B.ac,B.aj,B.a7),B.u,s,s,s,s,1200,s,s,s,s,s),A.a8X(200,new A.Om(r,s),s,s,100,100,s,s)],q),B.a3,B.cA)],q),B.ac,B.aj,B.a7),s),new A.bz(s,new A.It(new A.ob("assets/images/banner-bg11.png",s,s),B.Ak),s,s,s,s,B.U),B.bX),s)}}
 A.GM.prototype={
 L(a){var s,r,q,p,o=null,n=A.Os("assets/images/logo11.svg",o),m=A.ck("Home",o,o,o,A.df(o,o,B.x,o,o,o,o,o,o,o,o,o,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o),l=A.cw(o,o,30),k=A.ck("Skills",o,o,o,A.df(o,o,B.x,o,o,o,o,o,o,o,o,o,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o),j=A.cw(o,o,30),i=A.ck("Projects",o,o,o,A.df(o,o,B.x,o,o,o,o,o,o,o,o,o,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o),h=A.cw(o,o,30),g=A.ic(B.x,2)
-g=A.mH(A.h5(!1,A.eW(500),!0,new A.cD(B.cY,A.p_("images/github-60.png",B.i,o,o),o),o,!0,o,o,o,B.ah,o,o,o,o,o,A.aMV(),o,B.ah,o,o),new A.bz(B.v,o,g,o,o,o,B.cR),40,40)
+g=A.mH(A.h5(!1,A.eW(500),!0,new A.cD(B.cY,A.p_("assets/images/github-60.png",B.i,o,o),o),o,!0,o,o,o,B.ah,o,o,o,o,o,A.aMV(),o,B.ah,o,o),new A.bz(B.v,o,g,o,o,o,B.cR),40,40)
 s=A.ic(B.x,2)
 s=A.mH(A.h5(!1,A.eW(500),!0,new A.cD(B.cY,A.p_("assets/images/face.png",B.i,o,o),o),o,!0,o,o,o,B.ah,o,o,o,o,o,A.aMU(),o,B.ah,o,o),new A.bz(B.v,o,s,o,o,o,B.cR),40,40)
 r=A.ic(B.x,2)
@@ -82779,7 +82779,7 @@ p=A.ic(B.i,2)
 return A.iN(A.a([n,new A.uf(o),m,l,k,j,i,h,g,s,r,q,A.mH(A.h5(!1,o,!0,A.oj(A.ck("Let's Connet",o,o,o,A.df(o,o,B.i,o,o,o,o,o,o,o,o,o,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o),o,o),o,!0,o,o,o,B.ah,o,o,o,o,o,A.aMT(),o,B.ah,o,o),new A.bz(B.v,o,p,o,o,o,B.U),60,150),A.cw(o,o,30)],t.E),B.ac,B.aj,B.a7)}}
 A.Ha.prototype={
 L(a){var s,r,q,p=null,o=this.c,n=o.a,m=A.Z(B.c.aU(178.5),0,0,0),l=n*0.05,k=A.cw(p,p,l),j=A.Os("assets/images/logo11.svg",p),i=A.ic(B.i,2)
-i=A.mH(A.h5(!1,A.eW(500),!0,new A.cD(B.cY,A.p_("images/github-60.png",B.i,p,p),p),p,!0,p,p,p,B.ah,p,p,p,p,p,new A.a_q(),p,B.ah,p,p),new A.bz(B.v,p,i,p,p,p,B.cR),40,40)
+i=A.mH(A.h5(!1,A.eW(500),!0,new A.cD(B.cY,A.p_("assets/images/github-60.png",B.i,p,p),p),p,!0,p,p,p,B.ah,p,p,p,p,p,new A.a_q(),p,B.ah,p,p),new A.bz(B.v,p,i,p,p,p,B.cR),40,40)
 s=A.ic(B.i,2)
 s=A.mH(A.h5(!1,A.eW(500),!0,new A.cD(B.cY,A.p_("assets/images/face.png",B.i,p,p),p),p,!0,p,p,p,B.ah,p,p,p,p,p,new A.a_r(),p,B.ah,p,p),new A.bz(B.v,p,s,p,p,p,B.cR),40,40)
 r=A.ic(B.i,2)
