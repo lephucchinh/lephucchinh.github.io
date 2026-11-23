@@ -22,6 +22,13 @@
   document.addEventListener("keydown", (e) => {
     if (e.key === "Escape") setOpen(false);
   });
+  // tap outside the menu closes it; rotating to a wide layout resets it
+  document.addEventListener("click", (e) => {
+    if (links.classList.contains("is-open") && !e.target.closest("#nav-links, #nav-toggle")) setOpen(false);
+  });
+  window.matchMedia("(min-width: 861px)").addEventListener("change", (e) => {
+    if (e.matches) setOpen(false);
+  });
 
   // Reveal-on-scroll
   const items = document.querySelectorAll(".reveal");
